@@ -1,0 +1,4 @@
+flask
+flask_login
+google-genai
+bcrypt
